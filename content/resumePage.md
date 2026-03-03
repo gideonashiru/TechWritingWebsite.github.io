@@ -33,12 +33,6 @@ Technologies: Java, Android Studio, HSQLDB, JUnit, Espresso, Mockito [examit.ver
 * Collaborated with 4-person team using Agile sprint planning and GitLab version control, delivering 12 features across 6 two-week sprints
 * Debugged complex runtime issues using Logcat analysis, reducing crash rate by 60% during development cycle
 
-**Personal Portfolio   
-Technologies: Next.js, React, TypeScript, Tailwind CSS [gideonashiru.dev](https://gideonashiru.dev)**  
-  
-* Designed and launched personal portfolio website showcasing 3+ projects with interactive demonstrations and live GitHub repository links
-* Implemented effective SEO strategies including meta tags, structured data, and sitemap generation, improving search engine visibility and organic traffic
-* Integrated Vercel Analytics and Google Search Console to monitor website performance metrics and identifying optimization opportunities
 
 ### TECHNICAL SKILLS
 * ___Languages___: JavaScript/TypeScript, C++, Java, HTML/CSS, SQL
