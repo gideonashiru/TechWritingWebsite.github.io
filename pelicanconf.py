@@ -1,6 +1,6 @@
 AUTHOR = 'Gideon A.'
 SITENAME = 'Gideon Ashiru - Assignment #2'
-SITEURL = ""
+SITEURL = "https://gideonashiru.github.io/TechWritingWebsite.github.io/"
 OUTPUT_PATH = "docs/"
 
 PATH = "content"
