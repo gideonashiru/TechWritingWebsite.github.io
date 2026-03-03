@@ -1,7 +1,7 @@
 AUTHOR = 'Gideon A.'
 SITENAME = 'Gideon Ashiru - Assignment #2'
 SITEURL = ""
-# OUTPUT_PATH = "docs/"
+OUTPUT_PATH = "docs/"
 
 PATH = "content"
 
