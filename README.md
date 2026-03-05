@@ -1,6 +1,6 @@
 # Hosting your resume on a Static Website
 
-___Purpose: This guide walks you through creating a personal resume website and publishing it online for free using platforms like Markdown, Pelican, Git, and GitHub Pages. It is written for readers who are comfortable with Markdown, but have no prior experience with version control, static site generators, or web hosting. Along the way, it connects each step to the technical writing principles in Andrew Etter's *Modern Technical Writing*.___
+___Purpose: This guide walks you through creating a personal resume website and publishing it online for free using platforms like Markdown, Pelican, Git, and GitHub Pages. If you are comfortable with Markdown, but have no prior experience with version control, static site generators, or web hosting, this guide will help you just fine. Along the way, it connects each step to the technical writing principles in Andrew Etter's *Modern Technical Writing*.___
 
 ---
 ## Table of Contents
