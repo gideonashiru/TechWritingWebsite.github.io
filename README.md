@@ -118,7 +118,7 @@ your-username.github.io/
 **Etter's Principle: Write content in a lightweight markup language.**  
 Etter makes a strong case for Markdown: it is readable in its raw form, separates content completely from visual design, and is supported by almost every modern publishing tool. Writing your resume in Markdown means you can change the entire look of your site by swapping themes, without changing a single word of content. If you are already familiar with Markdown, this step should feel natural.
 
-Open the folder containing the pelican created website using your code editor, and create a file `resume.md` at `content/resume.md`. Pelican pages requires a small metadata header at the top of the file like so:  
+Open the folder containing the pelican created website using your code editor, and create a file `resume.md` and include it like so: `content/pages/resume.md`. Pelican pages requires a small metadata header at the top of the file like so:  
 
 
 ```markdown
